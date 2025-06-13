@@ -38,7 +38,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NurTamim331&show_icons=true&theme=radical" alt="tamim-stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NurTamim331&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=NurTamim331&theme=radical" />
+
 </p>
 
 ---
