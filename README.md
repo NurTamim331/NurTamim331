@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on a **Travel Agency Management System** project
 - 🌱 I’m improving my skills in **Backend Development** and **Clean UI Design**
 - 💡 I believe in structured learning, discipline, and lifelong curiosity
-- 🎯 Currently focused on **self-control**, **screen time reduction**, and achieving a **career breakthrough**
+- 🎯 Currently focused on **Learning Softwares**, **Solving Realwolrd Problems**, and achieving a **Passionate Career**
 - 📫 Reach me at: `nutamim2001@gmail.com`  
 <!-- Replace with your real contact -->
 
