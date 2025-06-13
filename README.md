@@ -12,7 +12,7 @@
 - 🌱 I’m improving my skills in **Backend Development** and **Clean UI Design**
 - 💡 I believe in structured learning, discipline, and lifelong curiosity
 - 🎯 Currently focused on **self-control**, **screen time reduction**, and achieving a **career breakthrough**
-- 📫 Reach me at: `youremail@example.com`  
+- 📫 Reach me at: `nutamim2001@gmail.com`  
 <!-- Replace with your real contact -->
 
 ---
@@ -36,9 +36,9 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="tamim-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NurTamim331&show_icons=true&theme=radical" alt="tamim-stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NurTamim331&theme=radical" />
 </p>
 
 ---
