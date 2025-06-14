@@ -52,10 +52,14 @@
 ---
 
 ### 📚 Learning Goals
-- Backend frameworks (Laravel / Node.js)
-- REST APIs and Authentication
-- Industry-level clean code and debugging
+- Backend frameworks (Laravel / Node.js / Django)
+- API Development & Integration
+- Automated Testing + QA
 - Design patterns and optimization
+- Building client friendly UX and UI
+- Solving Real Life Problems
+- Cloud Computing & DevOps
+- Database Design and Optimization
 
 ---
 
